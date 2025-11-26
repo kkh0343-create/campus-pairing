@@ -1,2 +1,0 @@
-# campus-pairing
-campus pairing
